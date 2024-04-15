@@ -1,0 +1,1 @@
+this project focuses on learning inheritance in python programming language.The purpose of inheritance in object-oriented programming is to promote code reuse, reduce redundancy, and create a hierarchical structure of classes. It allows subclasses to inherit attributes and methods from their superclass(es), enabling modular and extensible code design.
